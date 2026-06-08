@@ -1,0 +1,8 @@
+.env
+env/
+data/
+logs/
+*.csv
+*.parquet
+__pycache__/
+.ipynb_checkpoints/
